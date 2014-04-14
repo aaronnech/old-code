@@ -1,1 +1,0 @@
-windres -i res.rc -o res.o

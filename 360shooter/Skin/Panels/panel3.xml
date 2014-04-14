@@ -1,4 +1,0 @@
-<panel name="panel 3" x="100" y="100" w="600" h="350" colour="808050">
-	<label name="message" caption="Have an image." x="10" y="10" w="200" h="20" textcolour="FFFFFF"/>
-	<image name="image" url="image.jpg" x="10" y="40" w="200" h="150"/>
-</panel>

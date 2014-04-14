@@ -1,1 +1,0 @@
-luaL_addchar

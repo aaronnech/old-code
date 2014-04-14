@@ -1,6 +1,0 @@
-<panel name="panel 4" x="100" y="100" w="600" h="350" colour="508050">
-	<table name="table" x="5" y="5" heading="Name" w="200" ih="18" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="FFFFFF"
-	selecttext="000000" headcolour="80A080" headalpha="0.5" selectalpha="0.5">
-		<tablecolumn heading="Points" w="50"/>
-	</table>
-</panel>

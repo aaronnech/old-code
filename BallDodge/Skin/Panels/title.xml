@@ -1,3 +1,0 @@
-<panel name="title panel" x="0" y="0" w="800" h="80" colour="505080">
-	<label name="title" x="10" y="10" w="780" h="80" caption="Screen 1" textcolour="FFFFFF" font="Large"/>
-</panel>
