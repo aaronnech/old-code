@@ -1,0 +1,14 @@
+<panel name="panel 2" x="100" y="100" w="600" h="350" colour="805050">
+	<combobox name="combo" x="10" y="10" w="150" h="24" caption="Select a colour">
+		<comboitem caption="Red"/>
+		<comboitem caption="Blue"/>
+		<comboitem caption="Green"/>
+		<comboitem caption="Yellow"/>
+		<comboitem caption="Grey"/>
+	</combobox>
+
+	<textfield name="text" x="10" y="40" w="150" h="24" text="Type here"/>
+
+	<checkbox name="check" x="10" y="80" align="0" caption="Tick this thing here"/>
+
+</panel>

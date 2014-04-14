@@ -1,0 +1,3 @@
+<panel name="Frame Panel" x="620" y="550" w="180" h="50" colour="505080">
+	<progressbar name="Framerate" caption="Frame Rate" x="10" y="10" w="160" h="30" fillcolour="FF0000"/>
+</panel>

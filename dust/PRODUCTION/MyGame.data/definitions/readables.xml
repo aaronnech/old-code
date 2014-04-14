@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+DOCUMENTATION
+	<readable name="Start Sign">
+		<image>signs/signpost.png</image>
+		<readDist>16</readDist>
+		<w>16</w>
+		<h>16</h>
+		<script>
+		  <node>To any survivors out there: Run and hide now!</node>
+		  <node>P.S. I left a sling shot on the side of the house</node>
+		</script>
+	</readable>
+-->
+<readables>
+	<readable name="BewareCave1">
+		<image>sign/signpost.png</image>
+		<readDist>20</readDist>
+		<w>16</w>
+		<h>16</h>
+		<script>
+		  <node>STOP! Ab--ndoned cav-- Gia--t worms ever--where!</node>
+		</script>
+	</readable>
+</readables>

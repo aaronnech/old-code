@@ -1,0 +1,6 @@
+<screen name="Screen 1">
+	<panel name="screenchange"/>
+	<panel name="Frame Panel"/>
+	<panel name="panel 1"/>
+	<panel name="title panel"/>
+</screen>
