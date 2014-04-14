@@ -1,0 +1,5 @@
+<panel name="screenchange" x="0" y="500" w="120" h="100" colour="505080">
+	<button name="screen 1" x="10" y="10" w="100" h="24" caption="Screen 1" link="Screen 1"/>
+	<button name="screen 2" x="10" y="40" w="100" h="24" caption="Screen 2" link="Screen 2"/>
+	<button name="screen 3" x="10" y="70" w="100" h="24" caption="Screen 3" link="Screen 3"/>
+</panel>

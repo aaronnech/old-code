@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tasks>
+	<task name="First Kill">
+		<enemyname>Zombie</enemyname>
+		<quantity>1</quantity>
+		<timelimit>-1</timelimit>
+		<assignscript>
+			<node>STOP! Wait.. You're human!</node>
+			<node>... ... ...</node>
+			<node>Don't worry, we'll get out of this mess alive. Lets exterminate those things outside to start with.</node>
+			<node>Ready for some target practice? Go kill a Zombie outside then come back to me.</node>
+		</assignscript>
+		<completescript>
+			<node>Alright, I see you have some fighting skills.</node>
+		</completescript>
+	</task>
+	<task name="Basic Training">
+		<enemyname>Zombie</enemyname>
+		<quantity>3</quantity>
+		<timelimit>-1</timelimit>
+		<assignscript>
+			<node>Lets go get some more practice in. Go kill three zombies and show me if you can handle it...</node>
+		</assignscript>
+		<completescript>
+			<node>Not bad. Ready for a real challenge?</node>
+		</completescript>
+	</task>
+	<task name="Clear the Mine">
+		<enemyname>Worm</enemyname>
+		<quantity>1</quantity>
+		<timelimit>-1</timelimit>
+		<assignscript>
+			<node>Okay, so below us is a cave, and it has been invested with a radioactive worm.</node>
+			<node>Travel due east (or due west) and find one of the two cave entrances. From there you know what to do.</node>
+			<node>Come back to me when you get rid of that worm.</node>
+		</assignscript>
+		<completescript>
+			<node>Great work!</node>
+			<node>This next one is kinda a rush. We only have 5 minutes.</node>
+		</completescript>
+	</task>
+</tasks>

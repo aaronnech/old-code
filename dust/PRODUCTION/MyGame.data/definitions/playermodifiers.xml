@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+DOCUMENTATION
+	<modifier name="Cocaine">
+		<lastsfor>100</lastsfor>
+		how many frames this modifier lasts for.. -1 will last an infinite amount of time
+		<lastsfordmg>100</lastsfordmg>
+		how many hits the player will take until the modifier is deleted.. -1 will last an infinite amount of hits
+		<pspeed>2.5</pspeed>
+		the speed of the player(absolute value). negative values will make controls inverse.
+		<espeedmod>0.5</espeedmod>
+		relative speed of the enemies in the game. 1 is normal.. >1 is faster <1 is slower
+		<parmormod>1.0</parmormod>
+		percentage of damage the player takes from hits. 1 is normal.. >1 is more damage <1 is less damage
+		<pdamagemod>1.0</pdamagemod>
+		percentage of regular damage the player deals. 1 is normal.. >1 is more damage <1 is less damage
+	</modifier>
+-->
+<modifiers>
+
+	<modifier name="Ballistics Vest">
+		<lastsfor>-1</lastsfor>
+		<lastsfordmg>100</lastsfordmg>
+		<pspeed>5.0</pspeed>
+		<espeedmod>1.0</espeedmod>
+		<parmormod>0.75</parmormod>
+		<pdamagemod>1.0</pdamagemod>
+	</modifier>
+	<modifier name="30Flashlight">
+		<lastsfor>4000</lastsfor>
+		<lastsfordmg>-1</lastsfordmg>
+		<pspeed>1.0</pspeed>
+		<espeedmod>1.0</espeedmod>
+		<parmormod>1.0</parmormod>
+		<pdamagemod>1.0</pdamagemod>
+		<flashlight>1</flashlight>
+	</modifier>	
+	
+</modifiers>
